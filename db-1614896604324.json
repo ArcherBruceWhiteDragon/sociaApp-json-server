@@ -1,0 +1,249 @@
+{
+  "campsites": [
+    {
+      "id": 0,
+      "name": "Socia City Life",
+      "image": "images/react-lake.jpg",
+      "elevation": 1233,
+      "featured": false,
+      "description": "Socia City Life"
+    },
+    {
+      "id": 1,
+      "name": "Business on Socia",
+      "image": "images/chrome-river.jpg",
+      "elevation": 877,
+      "featured": false,
+      "description": "Spend your time with our Business Social Network."
+    },
+    {
+      "id": 2,
+      "name": "Business Around",
+      "image": "images/breadcrumb-trail.jpg",
+      "elevation": 2901,
+      "featured": false,
+      "description": "Let Socia be your business guide."
+    },
+    {
+      "id": 3,
+      "name": "Socia Trusted",
+      "image": "images/redux-woods.jpg",
+      "elevation": 42,
+      "featured": true,
+      "description": "You'll never want to leave home again while doing business in comfort with Socia"
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 1,
+      "campsiteId": 0,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 2,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "I caught a world-record-breaking trout here on my last visit.",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 3,
+      "campsiteId": 0,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with Business",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 4,
+      "campsiteId": 0,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 5,
+      "campsiteId": 1,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 6,
+      "campsiteId": 1,
+      "rating": 5,
+      "text": "I caught a world-record-breaking trout here on my last visit.",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 7,
+      "campsiteId": 1,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with nature.",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 8,
+      "campsiteId": 1,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 9,
+      "campsiteId": 1,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 10,
+      "campsiteId": 2,
+      "rating": 5,
+      "text": "I caught a world-record-breaking trout here on my last visit.",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    },
+    {
+      "id": 11,
+      "campsiteId": 2,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with nature.",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 12,
+      "campsiteId": 2,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 13,
+      "campsiteId": 2,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 14,
+      "campsiteId": 2,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 15,
+      "campsiteId": 3,
+      "rating": 5,
+      "text": "A wonderful place to reconnect with nature.",
+      "author": "Jordan Runn",
+      "date": "2019-08-04T20:11Z"
+    },
+    {
+      "id": 16,
+      "campsiteId": 3,
+      "rating": 4,
+      "text": "The stars at night were a revelation!",
+      "author": "Ann Dabramov",
+      "date": "2018-07-23T19:44Z"
+    },
+    {
+      "id": 17,
+      "campsiteId": 3,
+      "rating": 5,
+      "text": "What a magnificent view!",
+      "author": "Tinus Lorvaldes",
+      "date": "2018-10-25T16:30Z"
+    },
+    {
+      "id": 18,
+      "campsiteId": 3,
+      "rating": 4,
+      "text": "The campground was beautiful, but the bugs could bite sometimes.",
+      "author": "Brennen Ech",
+      "date": "2017-06-17T03:33Z"
+    },
+    {
+      "id": 19,
+      "campsiteId": 3,
+      "rating": 5,
+      "text": "I caught a world-record-breaking trout here on my last visit.",
+      "author": "McKenzie Sebastian",
+      "date": "2019-02-18T18:12Z"
+    }
+  ],
+  "partners": [
+    {
+      "id": 0,
+      "name": "Socia Connect",
+      "image": "images/bootstrap-logo.png",
+      "featured": false,
+      "description": "Connect with Socia Business wise"
+    },
+    {
+      "id": 1,
+      "name": "Get Business Verified",
+      "image": "images/git-logo.png",
+      "featured": false,
+      "description": "Join our growing verified business around the world"
+    },
+    {
+      "id": 2,
+      "name": "Innovations",
+      "image": "images/mongo-logo.png",
+      "featured": false,
+      "description": "Need to create your idea or brands? We can help here on Socia"
+    },
+    {
+      "id": 3,
+      "name": "Trust in Socia",
+      "image": "images/node-logo.png",
+      "featured": true,
+      "description": "Connect with Trusts"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Mountain of Business",
+      "image": "images/breadcrumb-trail.jpg",
+      "featured": true,
+      "description": "Create a business you dream of while awake!"
+    }
+  ],
+  "feedback": [
+    {
+      "id": 0,
+      "firstname": "Test",
+      "lastname": "Test",
+      "phoneNum": "12345",
+      "email": "test@test.com",
+      "agree": true,
+      "contactType": "Email",
+      "feedback": "test"
+    }
+  ]
+}
